@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshito1
-- 👀 I’m interested in coding and programming
-- 🌱 I’m currently learning python and JavaScript, I also continue to learn new things along with html and css
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in coding, programming, and 3D Designing.
+- 🌱 I’m currently learning python and JavaScript.
+- 💞️ I’m looking to collaborate on web development and 3D Designing
 - 📫 How to reach me baruserojoshi@gmail.com

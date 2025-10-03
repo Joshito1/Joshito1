@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joshito1
 - 👀 I’m interested in coding, programming, cyber security and 3D Designing.
-- 🌱 I’m currently learning python, JavaScript and much, much more.
+- 🌱 I’m currently learning python, JavaScript, C series and much, much more.
 - 💞️ I’m looking to collaborate on any of my interests.
 - 📫 How to reach me baruserojoshi@gmail.com
